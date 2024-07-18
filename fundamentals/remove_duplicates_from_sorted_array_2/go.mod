@@ -1,0 +1,3 @@
+module schmittjoaopedro/remove_duplicates_from_sorted_array_2
+
+go 1.21
